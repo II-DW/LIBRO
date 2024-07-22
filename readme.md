@@ -1,5 +1,5 @@
 
-![alt text](image.png)
+![alt text](https://github.com/II-DW/LIBRO/blob/main/LOGO/LIBRO.png?raw=true)
 
 # ✨ LIBRO
 

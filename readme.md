@@ -12,10 +12,17 @@
 
 ## 01. Chatbot
 
-### 📌 Datasets
+### 📌 Datasets & Refrences
 
 - [AI hub 감성 대화 말뭉치](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
 
 - 대건고등학교 학생 도서 추천 설문 결과
+
+- [AiChatBot - Github by II-DW](https://github.com/II-DW/AiChatBot)
+
+- [처음 배우는 딥러닝 챗봇 (조경래 저)](http://www.yes24.com/Product/Goods/94462359)
+
+### 
+
 
 

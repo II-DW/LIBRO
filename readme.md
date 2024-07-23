@@ -17,10 +17,10 @@
 
 ### 📌 Used Techniques
 
-- NLP (자연어 분석) [- Mecab & Konlpy](https://pypi.org/project/python-mecab-ko/)
+- NLP (자연어 분석) - [Mecab & Konlpy](https://pypi.org/project/python-mecab-ko/)
 - NLM (N-gram Launguage Model)
 - NER (개체명 인식)
-- Fine Tuning (개체명 인식) [- BERT](https://arxiv.org/abs/1810.04805)
+- Fine Tuning (미세 조정) - [BERT](https://arxiv.org/abs/1810.04805)
 
 
 ### 📌 Datasets & Refrences

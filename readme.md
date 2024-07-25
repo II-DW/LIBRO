@@ -36,6 +36,11 @@
 
 ![alt text](./LOGO/exampleuseage.png)
 
+### 📌 Published at
+
+- [https://libro.dgmanga.kr/](https://libro.dgmanga.kr/ )
+
+
 ### 📌 Front [(@lukekeum)](https://github.com/lukekeum)
 
 - [libro - Github by lukekeum](https://github.com/lukekeum/libro)

@@ -34,7 +34,7 @@
 
 ### 📌 Example Usage
 
-![alt text](./LOGO/exampleuse.png)
+![alt text](./LOGO/exampleuseage.png)
 
 ### 📌 Front [(@lukekeum)](https://github.com/lukekeum)
 

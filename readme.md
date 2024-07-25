@@ -30,6 +30,23 @@
 - [AiChatBot - Github by II-DW](https://github.com/II-DW/AiChatBot)
 - [처음 배우는 딥러닝 챗봇 (조경래 저)](http://www.yes24.com/Product/Goods/94462359)
 
+## 02. Web Service
+
+### 📌 Example Usage
+
+![alt text](./LOGO/exampleuse.png)
+
+### 📌 Front
+
+- [libro - Github by lukekeum](https://github.com/lukekeum/libro)
+
+### 📌 Back
+
+- FastAPI
+- [LIBRO - Hugging Face Model by IIDW](https://huggingface.co/IIDW/LIBRO)
+
+
+
 
 
 
